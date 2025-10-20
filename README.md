@@ -1,6 +1,6 @@
 # 🧮 Unit Converter – LAB 1 (MLOps IE-7374)
 
-This project is a simple **Unit Converter** built as part of **LAB 1 – MLOps (IE-7374)**.  
+This project is a simple **Unit Converter** built as part of **GITHUB LAB LAB 1 – MLOps (IE-7374)**.  
 It demonstrates fundamental software engineering and MLOps practices such as:
 
 - ✅ Virtual environment creation  
@@ -140,13 +140,6 @@ By completing this project, you practiced:
 - ✅ Writing unit tests with `pytest` and `unittest`  
 - ⚙️ Automating workflows with **GitHub Actions**  
 - 🔄 Continuous Integration (CI) and version control with Git & GitHub  
-
----
-
-## 📜 License
-
-This project was created for educational purposes as part of **LAB 1 – MLOps (IE-7374)**.  
-Feel free to use, modify, and extend it for learning or demonstration.
 
 ---
 
